@@ -1,9 +1,10 @@
-{
-  "logo": {
-      "viewbox": "0 0 500 500",
-      "paths": [
+
+ "Logo" : {
+        "type": "blogger",
+        "logoLocation": "../ ijayaprakash/images/ijayaprakash.png "
+ },
         {
-         <a href="http://ijayaprakash.in/" title="Ijayaprakash"><img style="border:0px;" width="64" src=" ijayaprakash/images/ijayaprakash.png" alt="ijayaprakash.png"/></a> 
+         
         }
       ]
   },
