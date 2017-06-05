@@ -1,7 +1,11 @@
 
- "Logo" : {
-        "type": "blogger",
-        "logoLocation": "/images/ijayaprakash.png "
+ "{
+  "logo": {
+      "viewbox": "0 0 500 500",
+      "type": "Jailbreak and Gaming Guide",
+        "logoLocation": "../images/ijayaprakash.png "
+          
+ 
  },
         {
          
