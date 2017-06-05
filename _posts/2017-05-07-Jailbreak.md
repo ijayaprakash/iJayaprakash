@@ -5,3 +5,6 @@ tags: android nexus marshmallow 6.0.1 adb root
 image_large: /images/ios-jailbreak.png
 image_small: /images/ios-jailbreak.png
 ---
+
+
+![ios-Jailbreak]({{ page.image_large }} "images/ios-jailbreak.png")
