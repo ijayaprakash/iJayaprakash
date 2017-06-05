@@ -7,4 +7,4 @@ image_small: /images/ios-jailbreak.png
 ---
 
 
-![ios-Jailbreak]({{ page.image_large }} "images/ios-jailbreak.png")
+
