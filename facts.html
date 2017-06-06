@@ -1,5 +1,15 @@
-<div class="posts-grid">
-{% for post in site.posts %}
-{% include posts-preview.html %}
-{% endfor %} 
+---
+layout: default
+permalink: /facts/
+title: Global Facts
+---
+
+<div class="post-grid">
+{% for post in site.facts %}
+{% include post-preview.html %}
+{% endfor %}
 </div>
+
+
+
+
