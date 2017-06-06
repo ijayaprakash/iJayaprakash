@@ -1,1 +1,5 @@
-TURe Facts around the world
+<div class="post-grid">
+{% for post in site.posts %}
+{% include post-preview.html %}
+{% endfor %}
+</div>
