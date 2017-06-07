@@ -1,6 +1,6 @@
 ---
 layout: post
-title: trying to overwrite library/mobilesubstrate/dynamiclibraries
+title: trying to overwrite error
 tags: iOS
 image_large: /images/dynamiclib.png 
 image_small: /images/dynamiclib.png 
