@@ -11,7 +11,7 @@ published: true
 
 
 
-![]({{site.baseurl}}/images/iOS-11-features-iPhone-Featured.png)
+![Apple iOS 11 : 10 New Features]({{site.baseurl}}/images/iOS-11-features-iPhone-Featured.png)
 
 ### Supported Devices
 
