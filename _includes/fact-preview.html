@@ -1,23 +1,23 @@
 {% include ordinalize.html date_param=post.date %}
-<article class="post-griditem">
+<article class="fact-griditem">
 {% if post.image_small %}
-  <a class="summary-title" href="{{ post.url }}">
-    <div class="post-image">
-      <img src="{{ post.image_small }}">
+  <a class="summary-title" href="{{ fact.url }}">
+    <div class="fact-image">
+      <img src="{{ fact.image_small }}">
     </div>
   </a>
 {% endif %}
-  <div class="post-details">
-    <a class="summary-title" href="{{ post.url }}">
-      <h2>{{ post.title }}</h2>
+  <div class="fact-details">
+    <a class="summary-title" href="{{ fact.url }}">
+      <h2>{{ fact.title }}</h2>
     </a>
-    <div class="excerpt">{{ post.excerpt }}</div>
+    <div class="excerpt">{{ fact.excerpt }}</div>
     <div class="item">
       <div class="left">
-        <time datetime="{{ post.date }}">{{ post.date | date: "%B" }} {{ d }}{{ ordinal }}, {{ post.date | date: "%Y" }}</time>
+        <time datetime="{{ fact.date }}">{{ post.date | date: "%B" }} {{ d }}{{ ordinal }}, {{ post.date | date: "%Y" }}</time>
       </div>
       <div class="right">
-        <a href="{{ post.url }}">Continue Reading →</a>
+        <a href="{{ fact.url }}">Continue Reading →</a>
       </div>
     </div>
   </div>
