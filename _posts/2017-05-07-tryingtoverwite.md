@@ -2,8 +2,8 @@
 layout: post
 title: trying to overwrite library/mobilesubstrate/dynamiclibraries
 tags: iOS
-image_large: null
-image_small: null
+image_large: /_posts/overwite.png
+image_small: /_posts/overwite.png
 published: true
 ---
 
