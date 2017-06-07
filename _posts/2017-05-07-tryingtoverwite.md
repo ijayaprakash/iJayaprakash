@@ -9,7 +9,7 @@ published: true
 
 ## trying to overwrite /library/mobilesubstrate/dynamiclibraries - IOS 10 Jailbreak
 
-![overwite.png]({{site.baseurl}}/_posts/dynamiclib.png)
+![]({{site.baseurl}}/_posts/dynamiclib.png)
 
 
 
