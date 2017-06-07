@@ -2,14 +2,14 @@
 layout: post
 title: trying to overwrite library/mobilesubstrate/dynamiclibraries
 tags: iOS
-image_large: /_posts/dynamiclib.png
-image_small: /_posts/dynamiclib.png
+image_large: /images/dynamiclib.png 
+image_small: /images/dynamiclib.png 
 published: true
 ---
 
 ## trying to overwrite /library/mobilesubstrate/dynamiclibraries - IOS 10 Jailbreak
 
-![]({{site.baseurl}}/_posts/dynamiclib.png)
+![]({{site.baseurl}}/images/dynamiclib.png)
 
 
 
