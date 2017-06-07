@@ -1,4 +1,4 @@
-layout: facts
+layout: fact
 title: a friend of all terror
 published: true
 
