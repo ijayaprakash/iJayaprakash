@@ -2,9 +2,12 @@
 layout: post
 title: Apple iOS 11 : 10 New Features
 tags: iOS 11
+image_large: /_posts/iOS-11-features-iPhone-Featured.png 
+image_small: /_posts/iOS-11-features-iPhone-Featured.png 
 published: true
 ---
 ## ** Apple iOS 11 : 10 New Features**
+
 
 
 
@@ -12,15 +15,15 @@ published: true
 
 ### Supported Devices
 
-
-    iPhone 7
-    iPhone 7 Plus
-    iPhone 6s
-    iPhone 6s Plus
-    iPhone 6
-    iPhone 6 Plus
-    iPhone SE
-    iPhone 5s
+   iPhone 7
+   iPhone 7 Plus
+   iPhone 6s
+   iPhone 6s Plus
+   iPhone 6
+   iPhone 6 Plus
+   iPhone SE
+   iPhone 5s
+  
     
 :> Here we are Going to Share Few iOS 11 Features announced at APPLE WWDC 2017 :> 
 
