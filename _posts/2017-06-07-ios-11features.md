@@ -1,10 +1,5 @@
 ---
-layout: post
-title: Apple iOS 11 : 10 New Features
-tags: iOS 11
-image_large: /images/iOS-11-features-iPhone-Featured.png 
-image_small: /images/iOS-11-features-iPhone-Featured.png
-published: true
+
 ---
 ## ** Apple iOS 11 : 10 New Features**
 
