@@ -18,6 +18,8 @@ published: true
 
 jailbreak fans were expecting to receive the jailbreak tool for the iOS 10.3.1 right after Apple released the iOS 10.3.2. However, fans are complaining that the product is not being released by PanGu, despite the fact that the team of hackers made it public that they have been working on such a tool for the 10.3.1 version of the iOS.
 
+<!--more-->
+
 We should still expect the jailbreak tool for the iOS 10.3.1 sometime after August. Adam Donenfeld, who works at Zimpreium (a mobile security company) discussed the exploit for iOS 10.3.1 that can also work for iOS 10.2, according to a recent report issued by 1 Red Drop.
 
 **### Update**
