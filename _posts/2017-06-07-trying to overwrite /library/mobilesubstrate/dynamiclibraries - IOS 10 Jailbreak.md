@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: trying to overwrite library/mobilesubstrate/dynamiclibraries
+tags: iOS
+image_large: 
+image_small: 
 ---
 
 ## trying to overwrite /library/mobilesubstrate/dynamiclibraries - IOS 10 Jailbreak
