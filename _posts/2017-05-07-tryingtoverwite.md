@@ -8,7 +8,7 @@ image_small:
 
 ## trying to overwrite /library/mobilesubstrate/dynamiclibraries - IOS 10 Jailbreak
 
-![]({{site.baseurl}}/_posts/2017-06-07-trying to overwrite /library/mobilesubstrate/overwite.png)
+![]({{site.baseurl}} /_posts/overwite.png )
 
 
 
