@@ -1,5 +1,8 @@
 ---
-published: false
+layout: post
+title: Apple iOS 11 : 10 New Features
+tags: iOS 11
+published: true
 ---
 ## ** Apple iOS 11 : 10 New Features**
 
