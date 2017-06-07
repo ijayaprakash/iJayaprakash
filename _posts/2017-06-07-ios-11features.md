@@ -2,8 +2,8 @@
 layout: post
 title: Apple iOS 11 : 10 New Features
 tags: iOS 11
-image_large: /_posts/iOS-11-features-iPhone-Featured.png 
-image_small: /_posts/iOS-11-features-iPhone-Featured.png 
+image_large: /images/iOS-11-features-iPhone-Featured.png 
+image_small: /images/iOS-11-features-iPhone-Featured.png
 published: true
 ---
 ## ** Apple iOS 11 : 10 New Features**
@@ -11,7 +11,7 @@ published: true
 
 
 
-![]({{site.baseurl}}/_posts/iOS-11-features-iPhone-Featured.png)
+![]({{site.baseurl}}//images/iOS-11-features-iPhone-Featured.png)
 
 ### Supported Devices
 
