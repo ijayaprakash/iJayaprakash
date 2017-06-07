@@ -11,19 +11,18 @@ published: true
 
 
 
-![iOS-11-features-iPhone-Featured.png]({{site.baseurl}}/_posts/iOS-11-features-iPhone-Featured.png)
+![]({{site.baseurl}}/_posts/iOS-11-features-iPhone-Featured.png)
 
 ### Supported Devices
 
-   iPhone 7
-   iPhone 7 Plus
-   iPhone 6s
-   iPhone 6s Plus
-   iPhone 6
-   iPhone 6 Plus
-   iPhone SE
-   iPhone 5s
-  
+   Iphone 5s
+   Iphone 6
+   Iphone 6s
+   Iphone 7s
+   Iphone 7
+   Iphone 7s plus
+   Iphone se
+   Iphone 6s plus
     
 :> Here we are Going to Share Few iOS 11 Features announced at APPLE WWDC 2017 :> 
 
