@@ -1,5 +1,5 @@
 ---
-
+published: false
 ---
 ## ** Apple iOS 11 : 10 New Features**
 
@@ -20,6 +20,8 @@
    Iphone 6s plus
     
 :> Here we are Going to Share Few iOS 11 Features announced at APPLE WWDC 2017 :> 
+
+<!--more-->
 
 ### 1.1 Turning ipad into a Laptop
 
@@ -64,8 +66,3 @@ If you are holding something in one hand and your iPhone in the other then you c
 Want to transfer your personal settings, preferences or other things between your iPhone or iPad? Then you just need to hold your iPhone or iPad near an iOS device or Mac and it will be securely imported.
 
 _For more features, you need to visit brand new iOS 11 feature page._
-
-
-
-    
-
